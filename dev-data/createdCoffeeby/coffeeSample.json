@@ -1,0 +1,756 @@
+[
+  {
+    "id": 1,
+    "title": "Coffee 01",
+    "images": "Coffee_01.jpeg",
+    "coverImages": [
+      "coverImages_1.jpg",
+      "coverImages_2.jpg",
+      "coverImages_3.jpg",
+      "coverImages_4.jpg"
+    ],
+    "price": 487,
+    "discount": 100,
+    "discountPercentage": 20,
+    "weightInGrams": 350,
+    "shortDetails": [
+      "Smooth & aromatic Arabica coffee",
+      "Perfect for espresso & filter coffee",
+      "Handpicked and sun-dried beans"
+    ],
+    "premium": true,
+    "shelfLifeMonths": 24,
+    "coffeeType": [
+      "Arabica",
+      "Robusta"
+    ],
+    "roastLevel": [
+      "Medium",
+      "Dark"
+    ],
+    "grinding": [
+      "Whole beans",
+      "Ground"
+    ],
+    "coffeeTimeDrink": [
+      "Morning",
+      "Evening"
+    ],
+    "coffeeMakingTime": [
+      "Instant",
+      "Beans"
+    ],
+    "preservation": false,
+    "estate": true,
+    "flavours": [
+      "Chocolatey",
+      "Caramel",
+      "Fruity"
+    ],
+    "cupsPerPacket": [
+      30,
+      40
+    ],
+    "processing": "Handpicked, sun-dried",
+    "description": "Enjoy a smooth medium-bodied cup with chocolate and caramel notes. Perfect for mornings or relaxing afternoons, this handpicked Arabica delivers a rich, aromatic experience.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_01.jpg",
+            "title": "Pure Arabica",
+            "description": "Soft and smooth with hints of chocolate and citrus. Ideal for a calm morning coffee ritual."
+          },
+          {
+            "image": "imgDesc_02.jpg",
+            "title": "Sun-Kissed Robusta",
+            "description": "Strong and full-bodied with earthy undertones. Great for bold espresso lovers."
+          },
+          {
+            "image": "imgDesc_03.jpg",
+            "title": "Honey Processed Blend",
+            "description": "Sweet caramel notes with a creamy finish. Perfect for dessert-style coffee."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Alice Johnson",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "Love the rich aroma and smooth chocolate notes. Makes my mornings delightful and energetic."
+      },
+      {
+        "name": "John Doe",
+        "rating": 4,
+        "image": "ratingImage_02.jpeg",
+        "comment": "Balanced taste with a subtle caramel finish. Perfect for daily coffee rituals."
+      },
+      {
+        "name": "Maria Lopez",
+        "rating": 5,
+        "image": "ratingImage_03.jpeg",
+        "comment": "Soft, smooth, and aromatic. Great choice for a cozy coffee break at home."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Coffee 02",
+    "images": "Coffee_02.jpeg",
+    "coverImages": [
+      "coverImages_5.jpg",
+      "coverImages_6.jpg",
+      "coverImages_7.jpg",
+      "coverImages_8.jpg"
+    ],
+    "price": 550,
+    "discount": 120,
+    "discountPercentage": 18,
+    "weightInGrams": 400,
+    "shortDetails": [
+      "Bold Robusta beans",
+      "Full-bodied and earthy",
+      "Strong espresso profile"
+    ],
+    "premium": true,
+    "shelfLifeMonths": 24,
+    "coffeeType": [
+      "Robusta",
+      "Liberica"
+    ],
+    "roastLevel": [
+      "High",
+      "Dark"
+    ],
+    "grinding": [
+      "Ground",
+      "Instant"
+    ],
+    "coffeeTimeDrink": [
+      "Mid-day",
+      "Night"
+    ],
+    "coffeeMakingTime": [
+      "Beans",
+      "Filtered"
+    ],
+    "preservation": false,
+    "estate": true,
+    "flavours": [
+      "Earthy",
+      "Chocolate",
+      "Nutty"
+    ],
+    "cupsPerPacket": [
+      25,
+      35
+    ],
+    "processing": "Sun-drenched estates",
+    "description": "Bold and intense Robusta cultivated in Coorg estates. Full-bodied, earthy tones, ideal for espresso lovers seeking strong caffeine and chocolatey finish.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_04.jpg",
+            "title": "Shade-Grown Specialty",
+            "description": "Balanced cup with nutty undertones, mild acidity, and a hint of spice."
+          },
+          {
+            "image": "imgDesc_05.jpg",
+            "title": "Pure Arabica",
+            "description": "Smooth, medium-bodied Arabica with floral notes and subtle citrus hints."
+          },
+          {
+            "image": "imgDesc_06.jpg",
+            "title": "Sun-Kissed Robusta",
+            "description": "Bold Robusta with full-bodied flavor and earthy tones, perfect for espresso lovers."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "David Kim",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "Full-bodied and strong. Perfect espresso flavor, with a lingering chocolatey finish."
+      },
+      {
+        "name": "Emily Clark",
+        "rating": 4,
+        "image": "ratingImage_02.jpeg",
+        "comment": "Bold and earthy taste. Enjoyable for mid-day coffee breaks."
+      },
+      {
+        "name": "Michael Lee",
+        "rating": 5,
+        "image": "ratingImage_03.jpeg",
+        "comment": "Rich aroma and perfect roast. Smooth and strong cup every morning."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Morning Bliss Blend",
+    "images": "Coffee_03.jpeg",
+    "coverImages": [
+      "coverImages_9.jpg",
+      "coverImages_10.jpg",
+      "coverImages_11.jpg",
+      "coverImages_12.jpg"
+    ],
+    "price": 520,
+    "discount": 80,
+    "discountPercentage": 15,
+    "weightInGrams": 300,
+    "shortDetails": [
+      "Bright and energizing blend",
+      "Perfect morning wake-up call",
+      "Ethically sourced beans"
+    ],
+    "premium": false,
+    "shelfLifeMonths": 18,
+    "coffeeType": [
+      "Arabica"
+    ],
+    "roastLevel": [
+      "Light",
+      "Medium"
+    ],
+    "grinding": [
+      "Whole beans",
+      "Ground",
+      "Instant"
+    ],
+    "coffeeTimeDrink": [
+      "Morning"
+    ],
+    "coffeeMakingTime": [
+      "Instant",
+      "Filtered"
+    ],
+    "preservation": true,
+    "estate": false,
+    "flavours": [
+      "Citrus",
+      "Honey",
+      "Floral"
+    ],
+    "cupsPerPacket": [
+      25,
+      30
+    ],
+    "processing": "Washed processing",
+    "description": "A bright and lively blend with citrus notes and honey sweetness. Perfect for starting your day with energy and positivity.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_07.jpg",
+            "title": "Light Roast Arabica",
+            "description": "Bright acidity with citrus and floral notes. Perfect for pour-over brewing."
+          },
+          {
+            "image": "imgDesc_08.jpg",
+            "title": "Medium Roast Blend",
+            "description": "Balanced flavor with honey sweetness and smooth finish. Great for automatic drip machines."
+          },
+          {
+            "image": "imgDesc_09.jpg",
+            "title": "Single Origin",
+            "description": "Distinct terroir characteristics with complex flavor profile. For the discerning coffee enthusiast."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah Wilson",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "My perfect morning coffee! Bright and energizing without being too acidic."
+      },
+      {
+        "name": "Robert Brown",
+        "rating": 4,
+        "image": "ratingImage_02.jpeg",
+        "comment": "Enjoy the citrus notes in this blend. Makes for a refreshing start to the day."
+      },
+      {
+        "name": "Jennifer Taylor",
+        "rating": 5,
+        "image": "ratingImage_03.jpeg",
+        "comment": "Smooth with just the right amount of brightness. My new daily driver!"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Evening Decaf Delight",
+    "images": "Coffee_04.jpeg",
+    "coverImages": [
+      "coverImages_13.jpg",
+      "coverImages_14.jpg",
+      "coverImages_15.jpg",
+      "coverImages_16.jpg"
+    ],
+    "price": 450,
+    "discount": 50,
+    "discountPercentage": 10,
+    "weightInGrams": 250,
+    "shortDetails": [
+      "99.9% caffeine-free",
+      "Smooth and comforting",
+      "Swiss water process decaffeination"
+    ],
+    "premium": false,
+    "shelfLifeMonths": 12,
+    "coffeeType": [
+      "Arabica"
+    ],
+    "roastLevel": [
+      "Medium"
+    ],
+    "grinding": [
+      "Ground",
+      "Whole beans"
+    ],
+    "coffeeTimeDrink": [
+      "Evening",
+      "Night"
+    ],
+    "coffeeMakingTime": [
+      "Filtered",
+      "French Press"
+    ],
+    "preservation": true,
+    "estate": false,
+    "flavours": [
+      "Nutty",
+      "Chocolate",
+      "Caramel"
+    ],
+    "cupsPerPacket": [
+      20,
+      25
+    ],
+    "processing": "Swiss water process decaffeination",
+    "description": "A smooth, comforting decaf coffee with notes of nuts and chocolate. Perfect for evening enjoyment without compromising on sleep.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_10.jpg",
+            "title": "Decaf House Blend",
+            "description": "Well-balanced decaf with nutty and chocolate notes. Perfect after dinner."
+          },
+          {
+            "image": "imgDesc_11.jpg",
+            "title": "Decaf Single Origin",
+            "description": "Complex decaf with caramel sweetness and smooth body. For decaf connoisseurs."
+          },
+          {
+            "image": "imgDesc_12.jpg",
+            "title": "Decaf Espresso",
+            "description": "Full-bodied decaf that stands up well to milk. Great for decaf lattes and cappuccinos."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Thomas Reed",
+        "image": "ratingImage_01.jpeg",
+        "rating": 4,
+        "comment": "Best decaf I've tried! Actually tastes like real coffee without the caffeine."
+      },
+      {
+        "name": "Lisa Garcia",
+        "rating": 5,
+        "image": "ratingImage_02.jpeg",
+        "comment": "Perfect for my evening coffee ritual. Smooth and doesn't keep me up at night."
+      },
+      {
+        "name": "Kevin Martin",
+        "rating": 4,
+        "image": "ratingImage_03.jpeg",
+        "comment": "Impressed with the flavor retention in this decaf process. Will buy again."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Espresso Excellence",
+    "images": "Coffee_05.jpeg",
+    "coverImages": [
+      "coverImages_17.jpg",
+      "coverImages_18.jpg",
+      "coverImages_19.jpg",
+      "coverImages_20.jpg"
+    ],
+    "price": 600,
+    "discount": 100,
+    "discountPercentage": 16,
+    "weightInGrams": 500,
+    "shortDetails": [
+      "Professional grade espresso",
+      "Rich crema formation",
+      "Blended for espresso machines"
+    ],
+    "premium": true,
+    "shelfLifeMonths": 24,
+    "coffeeType": [
+      "Arabica",
+      "Robusta"
+    ],
+    "roastLevel": [
+      "Dark"
+    ],
+    "grinding": [
+      "Fine grind",
+      "Whole beans"
+    ],
+    "coffeeTimeDrink": [
+      "Morning",
+      "Mid-day"
+    ],
+    "coffeeMakingTime": [
+      "Espresso"
+    ],
+    "preservation": false,
+    "estate": true,
+    "flavours": [
+      "Dark Chocolate",
+      "Spice",
+      "Caramelized"
+    ],
+    "cupsPerPacket": [
+      60,
+      70
+    ],
+    "processing": "Traditional Italian roast",
+    "description": "A professional-grade espresso blend with exceptional crema formation. Notes of dark chocolate and spice with a long-lasting finish.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_13.jpg",
+            "title": "Classic Italian",
+            "description": "Traditional dark roast with bold flavor and thick crema. Authentic espresso experience."
+          },
+          {
+            "image": "imgDesc_14.jpg",
+            "title": "Barista's Choice",
+            "description": "Complex blend with balanced acidity and sweetness. Perfect for latte art."
+          },
+          {
+            "image": "imgDesc_15.jpg",
+            "title": "Crema Supreme",
+            "description": "Specially formulated for exceptional crema formation. Visually stunning espresso."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Andrea Rossi",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "Finally found an authentic Italian-style espresso blend. Crema is perfect!"
+      },
+      {
+        "name": "Michelle Wong",
+        "rating": 5,
+        "image": "ratingImage_02.jpeg",
+        "comment": "My home espresso machine has never produced better results. Rich and flavorful."
+      },
+      {
+        "name": "Daniel Schmidt",
+        "rating": 4,
+        "image": "ratingImage_03.jpeg",
+        "comment": "Professional quality at home. Consistent shots every time."
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Organic Sunrise Blend",
+    "images": "Coffee_06.jpeg",
+    "coverImages": [
+      "coverImages_21.jpg",
+      "coverImages_22.jpg",
+      "coverImages_23.jpg",
+      "coverImages_24.jpg"
+    ],
+    "price": 575,
+    "discount": 75,
+    "discountPercentage": 13,
+    "weightInGrams": 400,
+    "shortDetails": [
+      "Certified organic",
+      "Shade-grown beans",
+      "Eco-friendly packaging"
+    ],
+    "premium": true,
+    "shelfLifeMonths": 18,
+    "coffeeType": [
+      "Arabica"
+    ],
+    "roastLevel": [
+      "Medium"
+    ],
+    "grinding": [
+      "Whole beans",
+      "Ground"
+    ],
+    "coffeeTimeDrink": [
+      "Morning"
+    ],
+    "coffeeMakingTime": [
+      "Pour over",
+      "French Press"
+    ],
+    "preservation": true,
+    "estate": true,
+    "flavours": [
+      "Berry",
+      "Hazelnut",
+      "Brown Sugar"
+    ],
+    "cupsPerPacket": [
+      35,
+      45
+    ],
+    "processing": "Organic certified processing",
+    "description": "A certified organic coffee with complex notes of berry, hazelnut and brown sugar. Grown under shade canopies to support biodiversity.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_16.jpg",
+            "title": "Shade-Grown Organic",
+            "description": "Complex flavors developed under natural shade canopies. Supports bird habitats."
+          },
+          {
+            "image": "imgDesc_17.jpg",
+            "title": "Fair Trade Select",
+            "description": "Ethically sourced from farmer cooperatives. Notes of berry and brown sugar."
+          },
+          {
+            "image": "imgDesc_18.jpg",
+            "title": "Biodynamic Blend",
+            "description": "Farm-grown using biodynamic principles. Exceptionally smooth and complex."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Emma Thompson",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "Love knowing my coffee is organic and ethically sourced. Beautiful flavor too!"
+      },
+      {
+        "name": "Christopher Green",
+        "rating": 4,
+        "image": "ratingImage_02.jpeg",
+        "comment": "Noticeably different quality. The berry notes are delightful in the morning."
+      },
+      {
+        "name": "Amanda Harris",
+        "rating": 5,
+        "image": "ratingImage_03.jpeg",
+        "comment": "My conscious choice for daily coffee. Excellent flavor and peace of mind."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "French Press Classic",
+    "images": "Coffee_07.jpeg",
+    "coverImages": [
+      "coverImages_25.jpg",
+      "coverImages_26.jpg",
+      "coverImages_27.jpg",
+      "coverImages_28.jpg"
+    ],
+    "price": 490,
+    "discount": 60,
+    "discountPercentage": 12,
+    "weightInGrams": 350,
+    "shortDetails": [
+      "Specially blended for French Press",
+      "Full-bodied and rich",
+      "Coarse grind optimized"
+    ],
+    "premium": false,
+    "shelfLifeMonths": 18,
+    "coffeeType": [
+      "Arabica"
+    ],
+    "roastLevel": [
+      "Medium-Dark"
+    ],
+    "grinding": [
+      "Coarse grind"
+    ],
+    "coffeeTimeDrink": [
+      "Morning",
+      "Mid-day"
+    ],
+    "coffeeMakingTime": [
+      "French Press"
+    ],
+    "preservation": false,
+    "estate": false,
+    "flavours": [
+      "Dark Chocolate",
+      "Cedar",
+      "Molasses"
+    ],
+    "cupsPerPacket": [
+      30,
+      35
+    ],
+    "processing": "Traditional processing",
+    "description": "Specially selected and ground for optimal French Press extraction. Full-bodied with notes of dark chocolate and cedar with a molasses sweetness.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_19.jpg",
+            "title": "Press Blend",
+            "description": "Specifically crafted for French Press brewing. Bold and full-bodied."
+          },
+          {
+            "image": "imgDesc_20.jpg",
+            "title": "Coarse Grind Expert",
+            "description": "Perfect grind size for French Press. Eliminates sediment while maximizing flavor."
+          },
+          {
+            "image": "imgDesc_21.jpg",
+            "title": "Bold Body Selection",
+            "description": "Selected for its ability to stand up to immersion brewing. Rich and complex."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Paul Richardson",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "Finally a coffee specifically for French Press! Makes a huge difference in clarity."
+      },
+      {
+        "name": "Natalie Kim",
+        "rating": 4,
+        "image": "ratingImage_02.jpeg",
+        "comment": "The coarse grind is perfect - no sediment in my cup. Rich flavor."
+      },
+      {
+        "name": "George Miller",
+        "rating": 5,
+        "image": "ratingImage_03.jpeg",
+        "comment": "My French Press has never produced better coffee. Will buy this exclusively now."
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Iced Coffee Blend",
+    "images": "Coffee_08.jpeg",
+    "coverImages": [
+      "coverImages_29.jpg",
+      "coverImages_30.jpg",
+      "coverImages_31.jpg",
+      "coverImages_32.jpg"
+    ],
+    "price": 430,
+    "discount": 40,
+    "discountPercentage": 9,
+    "weightInGrams": 300,
+    "shortDetails": [
+      "Specially crafted for cold brewing",
+      "Bright and low acidity",
+      "Perfect for hot weather"
+    ],
+    "premium": false,
+    "shelfLifeMonths": 12,
+    "coffeeType": [
+      "Arabica"
+    ],
+    "roastLevel": [
+      "Light",
+      "Medium"
+    ],
+    "grinding": [
+      "Coarse grind"
+    ],
+    "coffeeTimeDrink": [
+      "Morning",
+      "Mid-day",
+      "Evening"
+    ],
+    "coffeeMakingTime": [
+      "Cold Brew"
+    ],
+    "preservation": true,
+    "estate": false,
+    "flavours": [
+      "Vanilla",
+      "Stone Fruit",
+      "Brown Sugar"
+    ],
+    "cupsPerPacket": [
+      25,
+      30
+    ],
+    "processing": "Specialty processing for cold brew",
+    "description": "A specially selected blend optimized for cold brewing. Naturally low acidity with notes of vanilla, stone fruit, and brown sugar. Perfect for iced coffee.",
+    "briefDescription": [
+      {
+        "types": [
+          {
+            "image": "imgDesc_22.jpg",
+            "title": "Cold Brew Concentrate",
+            "description": "Brews a perfect concentrate for iced coffee. Smooth and low acidity."
+          },
+          {
+            "image": "imgDesc_23.jpg",
+            "title": "Iced Coffee Specialist",
+            "description": "Specifically selected beans that shine when brewed cold. Bright and refreshing."
+          },
+          {
+            "image": "imgDesc_24.jpg",
+            "title": "Tropical Notes Blend",
+            "description": "Exhibits tropical fruit notes when cold brewed. Perfect for summer."
+          }
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sophia Lopez",
+        "image": "ratingImage_01.jpeg",
+        "rating": 5,
+        "comment": "My go-to for cold brew. Smooth with no bitter aftertaste. Perfect for summer!"
+      },
+      {
+        "name": "Henry Wilson",
+        "rating": 4,
+        "image": "ratingImage_02.jpeg",
+        "comment": "Really low acidity compared to other cold brew coffees I've tried. Refreshing."
+      },
+      {
+        "name": "Olivia Chen",
+        "rating": 5,
+        "image": "ratingImage_03.jpeg",
+        "comment": "The vanilla and stone fruit notes come through beautifully in cold brew. Delicious!"
+      }
+    ]
+  }
+]
